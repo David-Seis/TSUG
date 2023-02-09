@@ -6,9 +6,12 @@
 
 # Repository Title Goes Here
 
-> Subtitle or Short Description Goes Here
+> User Group Details
+Thing
 
-> ideally one sentence
+> Resources:
+
+- [SQL Server Troubleshotting Notebook]()
 
 > include terms/tags that can be searched
 
