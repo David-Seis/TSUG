@@ -4,7 +4,7 @@
 
 ***INSERT GRAPHIC HERE (include hyperlink in image)***
 
-# Repository Title Goes Here
+# Tampa Bay SQL Server User Group (TSUG)
 
 > User Group Details
 Thing
