@@ -11,7 +11,7 @@ Thing
 
 > Resources:
 
-- [SQL Server Troubleshotting Notebook]()
+- [SQL Server Troubleshotting Notebook](https://github.com/David-Seis/TSUG/blob/main/notebooks/SQL%20Server%20TroubleShooting%20Guide.ipynb)
 
 > include terms/tags that can be searched
 
