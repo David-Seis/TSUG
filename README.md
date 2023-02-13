@@ -4,7 +4,7 @@
 
 ***INSERT GRAPHIC HERE (include hyperlink in image)***
 
-# Repository Title Goes Here
+# Tampa Bay SQL Server User Group (TSUG)
 
 > User Group Details
 Thing
@@ -12,6 +12,7 @@ Thing
 > Resources:
 
 - [SQL Server Troubleshotting Notebook](https://github.com/David-Seis/TSUG/blob/main/notebooks/SQL%20Server%20TroubleShooting%20Guide.ipynb)
+- [SQL Server Troubleshooting Notebook](https://github.com/David-Seis/TSUG/blob/main/notebooks/SQL%20Server%20TroubleShooting%20Guide.ipynb)
 
 > include terms/tags that can be searched
 
