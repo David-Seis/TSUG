@@ -1,19 +1,55 @@
-<a href="http://fvcproductions.com"><img src="https://media.licdn.com/dms/image/C4E03AQEXHzTtMhtnww/profile-displayphoto-shrink_800_800/0/1632201089248?e=1681344000&v=beta&t=tI6WMCgSr2T1_fYIDb3Mo4OIcfErnkYE9ZN0mZYJCHY" title="FVCproductions" alt="FVCproductions"></a>
-
-<!-- [![FVCproductions](https://media.licdn.com/dms/image/C4E03AQEXHzTtMhtnww/profile-displayphoto-shrink_800_800/0/1632201089248?e=1681344000&v=beta&t=tI6WMCgSr2T1_fYIDb3Mo4OIcfErnkYE9ZN0mZYJCHY)](http://fvcproductions.com) -->
-
-***INSERT GRAPHIC HERE (include hyperlink in image)***
+<a href="https://www.meetup.com/tampa-sql-user-groups/"><img src="/Resources/tsug.jpg" alt="Tampa with community group name overlay"> </a>
 
 # Tampa Bay SQL Server User Group (TSUG)
 
 > User Group Details
-How to connect with us: 
+
+<p>We are a collection of data platform enthusiasts in the Tampa Bay Area and beyond. We meet every month on the third Tuesday. If you are interested in presenting with us, please send an email to David or Buck and we will get you on the calendar!
+
+> How to connect with us: 
+- [Meetup](https://www.meetup.com/tampa-sql-user-groups/) - Please RSVP for our meetings here!
+- [Linkedin](https://www.linkedin.com/groups/1893703/)
+- [Facebook](https://www.facebook.com/tbssug/)
+- [Twitter](https://twitter.com/TBSSUG)
+
+> Email
+<table>
+
+  <tr>
+    <td>David Seis</td>
+    <td>David.Seis@msftcommunity.com</td>
+    <td>Leader</td>
+  </tr>
+  <tr>
+    <td>Buck Woody</td>
+    <td>Buck.Woody@msftcommunity.com</td>
+    <td>Co-leader</td>
+  </tr>
+</table>
 
 > Resources:
 
 - [SQL Server Troubleshooting Notebook](https://github.com/David-Seis/TSUG/blob/main/notebooks/SQL%20Server%20TroubleShooting%20Guide.ipynb)
+- [SQL Server Security from Ground to Cloud](https://github.com/David-Seis/SecureYourAzureData)
+- [Prior Presentations from Buck Woody](https://github.com/BuckWoody/presentations)
+- [Presentations from the Microsoft SQL Team](https://github.com/microsoft/sqlworkshops)
+- [DBatools](DBatools.io)
 
+> More to come...
+
+
+
+
+
+### Thank you for visiting, we hope to see you at the next meeting!
+
+
+<!--
 > include terms/tags that can be searched
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 
 **Badges will go here**
 
@@ -199,3 +235,6 @@ Reach out to me at one of the following places!
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
+
+
+-->
