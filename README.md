@@ -34,6 +34,8 @@
 - [Prior Presentations from Buck Woody](https://github.com/BuckWoody/presentations)
 - [Presentations from the Microsoft SQL Team](https://github.com/microsoft/sqlworkshops)
 - [DBatools](DBatools.io)
+- [WhoIsActive](https://www.google.com/search?q=whoisactive&rlz=1C1VDKB_enUS1023US1023&oq=whoisactive&aqs=chrome..69i57j0i512j69i59j0i512l3j69i61j69i60.3647j0j4&sourceid=chrome&ie=UTF-8)
+- [First Responder Toolkit](https://www.brentozar.com/responder/)
 
 > More to come...
 
