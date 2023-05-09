@@ -3,7 +3,7 @@
 
 The Azure Data Community is Community Owned and Microsoft empowered. Microsoft is dedicated to empowering every person and every organization on the planet to achieve more.
 
-#Code of Conduct for group leaders
+# Code of Conduct for group leaders
 As event and experience organizers, we seek to provide a respectful, friendly, professional experience for everyone, regardless of their gender, sexual orientation, physical appearance, disability, age, race, or religion. We do not tolerate any behavior that is degrading to any gender, race, sexual orientation, or disability, nor do we tolerate any behavior that would be deemed harassment or discrimination. Individuals are responsible for knowing and abiding by our standards and we encourage everyone to assist in creating a safe and welcoming environment. Please report any concerns, suspicious activity, or disruptive behavior to the Azure Data Tech Groups team at ms-data@microsoft.com so we can address issues immediately.
 
 #All group members should follow Throughout each interaction:
