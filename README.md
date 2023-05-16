@@ -19,7 +19,7 @@ Our meeting location has been graciously provided by <a href="www.ioassociates.c
 The Port Tampa Bay parking garage is <a href="https://www.bing.com/search?q=810+Channelside+Drive&aqs=edge..69i57j69i11004&FORM=ANCMS9&PC=U531">located across the street from the central cruise terminal:</p>
 <p>Port Tampa Bay Cruise Terminal 3 – 815 Channelside Drive, Tampa, Florida 33602)</a>.</p>  
 
-<p>Signs on-site also direct cruise passenger, but turn into the area that says "Short Term Parking".</p>
+<p>Signs on-site also direct cruise passengers to long term parking, but turn into the area that says "Short Term Parking".</p>
 
 <p>You'll find lots to do in this area, from <a href="https://sparkmanwharf.com/">Sparkman Wharf</a> to <a href="https://yborcityonline.com/">Ybor City</a> if you want to come early, stay late, or bring your family!</p>
 
