@@ -3,10 +3,10 @@
 # Tampa Bay SQL Server User Group (TSUG)
 
 > <b>About us</b>
-<p>We are a collection of data platform enthusiasts in the Tampa Bay Area and beyond. We meet every month on the third Tuesday. If you are interested in presenting with us, please send an email to David or Buck and we will get you on the calendar!
+<p>We are a collection of data platform professionals in the Tampa Bay Area and beyond. We meet every month on the third Tuesday at 6PM. If you are interested in joingin or presenting with us, please contact David or Buck and we will get you on the calendar!
 
 > <b>Meetings</b>
-<p>We meet in-person on the third Tuesday of every month for about an hour and a half, at the <a href="https://www.ioassociates.com/?source=gle_t"></a>IO Associates building right next to the Port of Tampa.</p>
+<p>We meet in-person on the third Tuesday of every month for about an hour and a half, at the <a href="https://www.bing.com/maps?&mepi=109~~TopOfPage~Address_Link&ty=18&q=iO%20Associates%20-%20Tampa&ss=ypid.YN873x17311666291203835826&ppois=27.94316864013672_-82.4468002319336_iO%20Associates%20-%20Tampa_YN873x17311666291203835826~&cp=27.943169~-82.4468&v=2&sV=1">IO Associates building</a> right next to the Port of Tampa. You can enter at the coffee shop to the right of the lobby, head to the door in the back, and wait in the building lobby. We'll have someone meet you there and bring you to the meeting location.</p>
 
 <p><b>Our Next meeting is on the 20th of June. No RSVP needed - just show up!</b></p>
 
@@ -34,7 +34,7 @@ The Port Tampa Bay parking garage is <a href="https://www.bing.com/search?q=810+
   </tr>
 
   <tr>
-    <td><a href="https://aka.ms/tsug">Buck Woody</a></td>
+    <td><a href="https://www.linkedin.com/in/buckwoody/">Buck Woody</a></td>
     <td>Co-Lead</td>
   </tr>
 
@@ -62,7 +62,7 @@ The Port Tampa Bay parking garage is <a href="https://www.bing.com/search?q=810+
 
 <p>Check out our code, Jupyter Notebooks and more:</p>
 
-- [SQL Server Troubleshooting and Notebooks](https://github.com/David-Seis/TSUG/examples/notebooks)
+- [SQL Server Troubleshooting, Code, and other Jupyter Notebooks](https://github.com/David-Seis/TSUG/tree/main/Resources/examples/notebooks)
 
 <p>You can find a great set of links that we've found useful here</p>
 
