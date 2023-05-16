@@ -21,7 +21,7 @@ The Port Tampa Bay parking garage is <a href="https://www.bing.com/search?q=810+
 
 <p>Signs on-site also direct cruise passenger, but turn into the area that says "Short Term Parking".</p>
 
-<p>You'll find lots to do in this area, from <a href"https://sparkmanwharf.com/">Sparkman Wharf</a> to <a href="https://yborcityonline.com/">Ybor City</a> if you want to come early, stay late, or bring your family!</p>
+<p>You'll find lots to do in this area, from <a href="https://sparkmanwharf.com/">Sparkman Wharf</a> to <a href="https://yborcityonline.com/">Ybor City</a> if you want to come early, stay late, or bring your family!</p>
 
 > <b>Contact Us</b>
 
