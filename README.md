@@ -1,35 +1,71 @@
-<a href="https://www.meetup.com/tampa-sql-user-groups/"><img src="/Resources/tsug.jpg" alt="Tampa with community group name overlay"> </a>
+<a href="https://www.meetup.com/tampa-sql-user-groups/"><img src="/Resources/graphics/tsug.png" width=800 alt="Tampa with community group name overlay"> </a>
 
 # Tampa Bay SQL Server User Group (TSUG)
 
-> User Group Details
-
+> <b>About us</b>
 <p>We are a collection of data platform enthusiasts in the Tampa Bay Area and beyond. We meet every month on the third Tuesday. If you are interested in presenting with us, please send an email to David or Buck and we will get you on the calendar!
 
-> How to connect with us: 
-- [Meetup](https://www.meetup.com/tampa-sql-user-groups/) - Please RSVP for our meetings here!
-- [Linkedin](https://www.linkedin.com/groups/1893703/)
-- [Facebook](https://www.facebook.com/tbssug/)
-- [Twitter](https://twitter.com/TBSSUG)
+> <b>Meetings</b>
+<p>We meet in-person on the third Tuesday of every month for about an hour and a half, at the <a href="https://www.ioassociates.com/?source=gle_t"></a>IO Associates building right next to the Port of Tampa.</p>
 
-> Email
+<p><b>Our Next meeting is on the 20th of June. No RSVP needed - just show up!</b></p>
+
+> <b>Location</b>
+
+Our meeting location has been graciously provided by <a href="www.ioassociates.com">iO Associates</a> - (813) 437-1458
+<b>Address: </b><a href="https://www.bing.com/maps?&mepi=109~~TopOfPage~Address_Link&ty=18&q=iO%20Associates%20-%20Tampa&ss=ypid.YN873x17311666291203835826&ppois=27.94316864013672_-82.4468002319336_iO%20Associates%20-%20Tampa_YN873x17311666291203835826~&cp=27.943169~-82.4468&v=2&sV=1"> 615 Channelside Dr, Tampa, FL 33602</a>
+
+<p>There is parking just accross the street - it's just 2$ an hour, so very inexpensive for the area. 
+The Port Tampa Bay parking garage is <a href="https://www.bing.com/search?q=810+Channelside+Drive&aqs=edge..69i57j69i11004&FORM=ANCMS9&PC=U531">located across the street from the central cruise terminal:</p>
+<p>Port Tampa Bay Cruise Terminal 3 – 815 Channelside Drive, Tampa, Florida 33602)</a>.</p>  
+
+<p>Signs on-site also direct cruise passenger, but turn into the area that says "Short Term Parking".</p>
+
+<p>You'll find lots to do in this area, from <a href"https://sparkmanwharf.com/">Sparkman Wharf</a> to <a href="https://yborcityonline.com/">Ybor City</a> if you want to come early, stay late, or bring your family!</p>
+
+> <b>Contact Us</b>
+
+<p> 
 <table>
 
   <tr>
-    <td>David Seis</td>
-    <td>David.Seis@msftcommunity.com</td>
-    <td>Leader</td>
+    <td><a href="https://www.linkedin.com/in/davidseis/">David Seis</a></td>
+    <td>Group Lead</td>
   </tr>
+
   <tr>
-    <td>Buck Woody</td>
-    <td>Buck.Woody@msftcommunity.com</td>
-    <td>Co-leader</td>
+    <td><a href="https://aka.ms/tsug">Buck Woody</a></td>
+    <td>Co-Lead</td>
   </tr>
-</table>
 
-> Resources:
+  <tr>
+    <td><a href="https://twitter.com/TBSSUG">Twitter</a></td>
+    <td>Announcements and helpful resources</td>
+  </tr>
 
-- [SQL Server Troubleshooting Notebook](https://github.com/David-Seis/TSUG/blob/main/notebooks/SQL%20Server%20TroubleShooting%20Guide.ipynb)
+  <tr>
+    <td><a href="https://www.linkedin.com/groups/1893703/">Linkedin</a></td>
+    <td>A professional group for TSUG on LinkedIn that you can ask to join. Network with your peers!</td>
+  </tr>
+
+  <tr>
+    <td><a href="https://www.facebook.com/tbssug/">Facebook</a></td>
+    <td>A Facebook Group for TSUG, and we have the ability to do virtual events there from time to time.</td>
+  </tr>
+
+ </table>
+</p>
+
+<p><b>We're always looking for volunteers, officers, presenters and more - hit us up at the links above for your opportunity!</b></p>
+
+> <b>Resources</b>
+
+<p>Check out our code, Jupyter Notebooks and more:</p>
+
+- [SQL Server Troubleshooting and Notebooks](https://github.com/David-Seis/TSUG/examples/notebooks)
+
+<p>You can find a great set of links that we've found useful here</p>
+
 - [SQL Server Security from Ground to Cloud](https://github.com/David-Seis/SecureYourAzureData)
 - [Prior Presentations from Buck Woody](https://github.com/BuckWoody/presentations)
 - [Presentations from the Microsoft SQL Team](https://github.com/microsoft/sqlworkshops)
@@ -37,14 +73,9 @@
 - [WhoIsActive](https://www.google.com/search?q=whoisactive&rlz=1C1VDKB_enUS1023US1023&oq=whoisactive&aqs=chrome..69i57j0i512j69i59j0i512l3j69i61j69i60.3647j0j4&sourceid=chrome&ie=UTF-8)
 - [First Responder Toolkit](https://www.brentozar.com/responder/)
 
-> More to come...
+> <b>Code of Conduct</b>
 
-
-
-
-
-### Thank you for visiting, we hope to see you at the next meeting!
-
+<a href="https://github.com/David-Seis/TSUG/blob/main/Code%20of%20Conduct.md">Click here for our Code of Conduct</a>
 
 <!--
 > include terms/tags that can be searched
