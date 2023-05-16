@@ -3,7 +3,7 @@
 # Tampa Bay SQL Server User Group (TSUG)
 
 > <b>About us</b>
-<p>We are a collection of data platform professionals in the Tampa Bay Area and beyond. We meet every month on the third Tuesday at 6PM. If you are interested in joingin or presenting with us, please contact David or Buck and we will get you on the calendar!
+<p>We are a collection of data platform professionals in the Tampa Bay Area and beyond, associated wtih the <a href="https://www.microsoft.com/en-us/sql-server/community?activetab=pivot:sqlservertab">Azure Data Global Network of User Groups</a>. We meet every month on the third Tuesday at 6PM. If you are interested in joingin or presenting with us, please contact David or Buck and we will get you on the calendar!
 
 > <b>Meetings</b>
 <p>We meet in-person on the third Tuesday of every month for about an hour and a half, at the <a href="https://www.bing.com/maps?&mepi=109~~TopOfPage~Address_Link&ty=18&q=iO%20Associates%20-%20Tampa&ss=ypid.YN873x17311666291203835826&ppois=27.94316864013672_-82.4468002319336_iO%20Associates%20-%20Tampa_YN873x17311666291203835826~&cp=27.943169~-82.4468&v=2&sV=1">IO Associates building</a> right next to the Port of Tampa. You can enter at the coffee shop to the right of the lobby, head to the door in the back, and wait in the building lobby. We'll have someone meet you there and bring you to the meeting location.</p>
