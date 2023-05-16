@@ -12,7 +12,7 @@
 
 > <b>Location</b>
 
-Our meeting location has been graciously provided by <a href="www.ioassociates.com">iO Associates</a> - (813) 437-1458
+Our meeting location has been graciously provided by <a href="https://www.ioassociates.com">iO Associates</a> - (813) 437-1458
 <b>Address: </b><a href="https://www.bing.com/maps?&mepi=109~~TopOfPage~Address_Link&ty=18&q=iO%20Associates%20-%20Tampa&ss=ypid.YN873x17311666291203835826&ppois=27.94316864013672_-82.4468002319336_iO%20Associates%20-%20Tampa_YN873x17311666291203835826~&cp=27.943169~-82.4468&v=2&sV=1"> 615 Channelside Dr, Tampa, FL 33602</a>
 
 <p>There is parking just accross the street - it's just 2$ an hour, so very inexpensive for the area. 
