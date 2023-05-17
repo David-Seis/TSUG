@@ -10,7 +10,7 @@
 
 <p><b>Our Next meeting is on the 20th of June at 6 PM. No RSVP needed - just show up! Location is below:</b></p>
 
-<a href="(https://raw.githubusercontent.com/David-Seis/TSUG/main/Resources/graphics/tsug.pngics"></a>Download a repeating calendar reminder here</a>
+<a href="https://raw.githubusercontent.com/David-Seis/TSUG/main/Resources/graphics/tsug.pngics">Download a repeating calendar reminder here</a>
 
 > <b>Location</b>
 
