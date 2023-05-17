@@ -11,7 +11,7 @@
 <p><b>Our Next meeting is on the 20th of June at 6 PM</b>.</p> 
 We'll meet in the lobby - tonight's meeting will have introductions, a puzzler, job openings, an overview of the group logistics and meet-and-greet, and closing. Pizza provided! No RSVP needed - just show up! Location is below.
 
-<p></p><a href="https://github.com/David-Seis/TSUG/blob/main/Resources/references/tsug.ics"><i>You can download a repeating calendar reminder here. Save it with the name "<b>tsug.ics</b>", and then double-click that file to import it into your mail program</i>.</a></p>
+<p></p><a href="https://github.com/David-Seis/TSUG/blob/main/Resources/references/tsug.ics"><i>You can download a repeating calendar reminder here. Click the "Download to Raw File" option on that page (next to the pencil icon to the right) and save it with the name "<b>tsug.ics</b>", and then double-click that file to import it into your mail program</i>.</a></p>
 
 > <b>Location</b>
 
