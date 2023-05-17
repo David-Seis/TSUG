@@ -10,7 +10,7 @@
 
 <p><b>Our Next meeting is on the 20th of June at 6 PM. No RSVP needed - just show up! Location is below:</b></p>
 
-<a href="https://raw.githubusercontent.com/David-Seis/TSUG/main/Resources/references/tsug.ics">You can download a repeating calendar reminder here. Right-click this file and save it with the name "tsug.ics", and then double-click that file to import it into your mail program.</a>
+<a href="https://github.com/David-Seis/TSUG/blob/main/Resources/references/tsug.ics">You can download a repeating calendar reminder here. Save it with the name "tsug.ics", and then double-click that file to import it into your mail program.</a>
 
 > <b>Location</b>
 
