@@ -10,13 +10,16 @@
 
 <p><b>Our Next meeting is on the 20th of June at 6 PM. No RSVP needed - just show up! Location is below:</b></p>
 
+<a href="(https://raw.githubusercontent.com/David-Seis/TSUG/main/Resources/graphics/tsug.pngics"></a>Download a repeating calendar reminder here</a>
+
 > <b>Location</b>
 
-Our meeting location has been graciously provided by <a href="https://www.ioassociates.com">iO Associates</a> - (813) 437-1458
-<b>Address: </b><a href="https://www.bing.com/maps?&mepi=109~~TopOfPage~Address_Link&ty=18&q=iO%20Associates%20-%20Tampa&ss=ypid.YN873x17311666291203835826&ppois=27.94316864013672_-82.4468002319336_iO%20Associates%20-%20Tampa_YN873x17311666291203835826~&cp=27.943169~-82.4468&v=2&sV=1"> 615 Channelside Dr, Tampa, FL 33602</a>
+<p>Our meeting location has been graciously provided by <a href="https://www.ioassociates.com">iO Associates</a> - (813) 437-1458</p>
 
-<p>There is parking just accross the street - it's just 2$ an hour, so very inexpensive for the area. 
-The Port Tampa Bay parking garage is <a href="https://www.bing.com/search?q=810+Channelside+Drive&aqs=edge..69i57j69i11004&FORM=ANCMS9&PC=U531">located across the street from the central cruise terminal:</p>
+<p><b>Address: </b><a href="https://www.bing.com/maps?&mepi=109~~TopOfPage~Address_Link&ty=18&q=iO%20Associates%20-%20Tampa&ss=ypid.YN873x17311666291203835826&ppois=27.94316864013672_-82.4468002319336_iO%20Associates%20-%20Tampa_YN873x17311666291203835826~&cp=27.943169~-82.4468&v=2&sV=1"> 615 Channelside Dr, Tampa, FL 33602</a></p>
+
+<p>There is parking just across the street - it's just 2$ an hour, so very inexpensive for the area. 
+<p>The Port Tampa Bay parking garage is <a href="https://www.bing.com/search?q=810+Channelside+Drive&aqs=edge..69i57j69i11004&FORM=ANCMS9&PC=U531">located across the street from the central cruise terminal:</p>
 <p>Port Tampa Bay Cruise Terminal 3 – 815 Channelside Drive, Tampa, Florida 33602)</a>.</p>  
 
 <p>Signs on-site also direct cruise passengers to long term parking, but turn into the area that says "Short Term Parking".</p>
