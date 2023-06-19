@@ -14,14 +14,14 @@ We'll meet in the lobby - tonight's meeting will have introductions, a puzzler, 
 <p></p><a href="https://github.com/David-Seis/TSUG/blob/main/Resources/references/tsug.ics"><i>You can download a repeating calendar reminder here. Click the "Download to Raw File" option on that page (next to the pencil icon to the right) and save it with the name "<b>tsug.ics</b>", and then double-click that file to import it into your mail program</i>.</a></p>
 
 > <b>Location</b>
-
 <p>Our meeting location has been graciously provided by <a href="https://www.ioassociates.com">iO Associates</a> - (813) 437-1458</p>
 
 <p><b>Address: </b><a href="https://www.bing.com/maps?&mepi=109~~TopOfPage~Address_Link&ty=18&q=iO%20Associates%20-%20Tampa&ss=ypid.YN873x17311666291203835826&ppois=27.94316864013672_-82.4468002319336_iO%20Associates%20-%20Tampa_YN873x17311666291203835826~&cp=27.943169~-82.4468&v=2&sV=1"> 615 Channelside Dr, Tampa, FL 33602</a></p>
 
-<p>There is parking just across the street - it's just 2$ an hour, so very inexpensive for the area. The Port Tampa Bay parking garage is <a href="https://www.bing.com/search?q=810+Channelside+Drive&aqs=edge..69i57j69i11004&FORM=ANCMS9&PC=U531">located across the street from the central cruise terminal:</p>
-<p>Port Tampa Bay Cruise Terminal 3 – 815 Channelside Drive, Tampa, Florida 33602)</a>.</p>  
+<p>When you get to the address, walk in to the coffee shop next door, and head to the back. To the left is a door that leads to the lobby. Have a seat on the couch, and we'll come down and bring you up to the event.</p>  
 
+<p><b>Parking</b>: There is parking just across the street - it's just 2$ an hour, so very inexpensive for the area. The Port Tampa Bay parking garage is <a href="https://www.bing.com/search?q=810+Channelside+Drive&aqs=edge..69i57j69i11004&FORM=ANCMS9&PC=U531">located across the street from the central cruise terminal:</p>
+<p>Port Tampa Bay Cruise Terminal 3 – 815 Channelside Drive, Tampa, Florida 33602)</a>.</p>  
 <p>Signs on-site also direct cruise passengers to long term parking, but turn into the area that says "Short Term Parking".</p>
 
 <p>You'll find lots to do in this area, from <a href="https://sparkmanwharf.com/">Sparkman Wharf</a> to <a href="https://yborcityonline.com/">Ybor City</a> if you want to come early, stay late, or bring your family!</p>
