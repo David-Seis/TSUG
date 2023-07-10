@@ -8,8 +8,8 @@
 > <b>Meetings</b>
 <p>We meet in-person on the third Tuesday of every month for about an hour and a half, at the <a href="https://www.bing.com/maps?&mepi=109~~TopOfPage~Address_Link&ty=18&q=iO%20Associates%20-%20Tampa&ss=ypid.YN873x17311666291203835826&ppois=27.94316864013672_-82.4468002319336_iO%20Associates%20-%20Tampa_YN873x17311666291203835826~&cp=27.943169~-82.4468&v=2&sV=1">IO Associates building</a> right next to the Port of Tampa. You can enter at the coffee shop to the right of the lobby, head to the door in the back, and wait in the building lobby. We'll have someone meet you there and bring you to the meeting location.</p>
 
-<p><b>Our Next meeting is on the 20th of June at 6 PM</b>.</p> 
-We'll meet in the lobby - tonight's meeting will have introductions, a puzzler, job openings, an overview of the group logistics and meet-and-greet, and closing. Pizza provided! No RSVP needed - just show up! Location is below.
+<p><b>Our Next meeting is on the 18th of July at 6 PM</b>.</p> 
+We'll meet in the lobby - tonight's meeting will have introductions, a puzzler, job openings, an brief session on a useful SQL server skill or tool, and meet-and-greet, and closing. Pizza provided! No RSVP needed - just show up! Location is below.
 
 <p></p><a href="https://github.com/David-Seis/TSUG/blob/main/Resources/references/tsug.ics"><i>You can download a repeating calendar reminder here. Click the "Download to Raw File" option on that page (next to the pencil icon to the right) and save it with the name "<b>tsug.ics</b>", and then double-click that file to import it into your mail program</i>.</a></p>
 
