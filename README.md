@@ -5,7 +5,7 @@
 > <b>Announcements</b>
 - <p><b>Our Next meeting is on the 17th of October at 6 PM.</b></p> 
 - <p><b>We are NOT having a November due to its proximity to Thanksgiving.</b></p>
-- <p><b>December is going to be a Family night - no session but bring yoruself and your family. We will likely be meeting in the outside area of Sparkman's Wharf because it will be cooler and there will be food and time to build community in a lighter setting.</b></p> 
+- <p><b>December is going to be a Family night - no session but bring yourself and your family. We will likely be meeting in the outside area of Sparkman's Wharf because it will be cooler and there will be food and time to build community in a lighter setting.</b></p> 
 
 
 > <b>About us</b>
