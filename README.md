@@ -2,6 +2,12 @@
 
 # Tampa Bay SQL Server User Group (TSUG)
 
+> <b>Announcements</b>
+- <p><b>Our Next meeting is on the 17th of October at 6 PM.</b></p> 
+- <p><b>We are NOT having a November due to its proximity to Thanksgiving.</b></p>
+- <p><b>December is going to be a Family night - no session but bring yoruself and your family. We will likely be meeting in the outside area of Sparkman's Wharf because it will be cooler and there will be food and time to build community in a lighter setting.</b></p> 
+
+
 > <b>About us</b>
 <p>We are a collection of Data Platform professionals in the Tampa Bay Area, associated with the <a href="https://www.microsoft.com/en-us/sql-server/community?activetab=pivot:sqlservertab">Microsoft Azure Data Global Network of User Groups</a>. We meet every month on the third Tuesday at 6PM. If you are interested in joining or presenting with us, please contact David or Buck and we will get you on the calendar!
 
@@ -9,7 +15,7 @@
 <p>We meet in-person on the third Tuesday of every month for about an hour and a half, at the <a href="https://www.bing.com/maps?&mepi=109~~TopOfPage~Address_Link&ty=18&q=iO%20Associates%20-%20Tampa&ss=ypid.YN873x17311666291203835826&ppois=27.94316864013672_-82.4468002319336_iO%20Associates%20-%20Tampa_YN873x17311666291203835826~&cp=27.943169~-82.4468&v=2&sV=1">IO Associates building</a> right next to the Port of Tampa. You can enter at the coffee shop to the right of the lobby, head to the door in the back, and wait in the building lobby. We'll have someone meet you there and bring you to the meeting location.</p>
 
 <p><b>Our Next meeting is on the 17th of October at 6 PM</b>.</p> 
-We'll meet in the lobby - tonight's meeting will have introductions, a puzzler, job openings, an brief session on a useful SQL server skill or tool, and meet-and-greet, and closing. Pizza provided! Please RVSP on <a href="https://www.meetup.com/tampa-sql-user-groups/">Meetup</a> so that food can be provided! Location is below.
+We'll meet in the lobby - each meeting will have introductions, a puzzler, job openings, an brief session on a useful SQL server skill or tool, and meet-and-greet, and closing. Pizza provided! Please RVSP on <a href="https://www.meetup.com/tampa-sql-user-groups/">Meetup</a> so that food can be provided! Location is below.
 
 <p></p><a href="https://github.com/David-Seis/TSUG/blob/main/Resources/references/tsug.ics"><i>You can download a repeating calendar reminder here. Click the "Download to Raw File" option on that page (next to the pencil icon to the right) and save it with the name "<b>tsug.ics</b>", and then double-click that file to import it into your mail program</i>.</a></p>
 
