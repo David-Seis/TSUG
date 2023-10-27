@@ -3,8 +3,9 @@
 # Tampa Bay SQL Server User Group (TSUG)
 
 > <b>Announcements</b>
-- <p><b>Our Next meeting is on the 19th of December at 6 PM - this will be a family night at Sparkman's Wharf. </b></p> 
 - <p><b>We are NOT having a November due to its proximity to Thanksgiving.</b></p>
+- <p><b>Our Next meeting is on the 19th of December at 6 PM - this will be a family night at Sparkman's Wharf. </b></p> 
+
 
 
 > <b>About us</b>
