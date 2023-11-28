@@ -3,10 +3,8 @@
 # Tampa Bay SQL Server User Group (TSUG)
 
 > <b>Announcements</b>
-- <p><b>We are NOT having a November meeting due to its proximity to Thanksgiving. Enjoy some time with your friends and families!</b></p>
-- <p><b>Our Next meeting is on the 19th of December at 6 PM - this will be a family night at Sparkman's Wharf. We look forward to havign some fun community time with you all!</b></p> 
 
-
+- <p><b>Our December meeting </b> is on the 19th at 6 PM - this will be a family night at "Splitsville" Bowling Lanes. Bring your family, meet us there to bowl, hit the arcades, enjoy some food, or whatever you would like to do! <i>No tech this time - it's all fun and games!</i> You'll find Splitsville at Sparkman's Wharf, and you can <a href="https://www.splitsvillelanes.com/location/tampa/">learn more about how much it costs and what they have here</a>. We look forward to having some fun community time with you all!</p> 
 
 > <b>About us</b>
 <p>We are a collection of Data Platform professionals in the Tampa Bay Area, associated with the <a href="https://www.microsoft.com/en-us/sql-server/community?activetab=pivot:sqlservertab">Microsoft Azure Data Global Network of User Groups</a>. We meet every month on the third Tuesday at 6PM. If you are interested in joining or presenting with us, please contact David or Buck and we will get you on the calendar!
