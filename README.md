@@ -4,7 +4,7 @@
 
 > <b>Announcements</b>
 
-- <p><b>Our December meeting </b> is on the 19th at 6 PM - this will be a family night at "Splitsville" Bowling Lanes. Bring your family, meet us there to bowl, hit the arcades, enjoy some food, or whatever you would like to do! <i>No tech this time - it's all fun and games!</i> You'll find Splitsville at Sparkman's Wharf, and you can <a href="https://www.splitsvillelanes.com/location/tampa/">learn more about how much it costs and what they have here</a>. We look forward to having some fun community time with you all!</p> 
+- <p><b>Our January meeting </b> is on the 16th at 6 PM - We are back to our normal technical sessions startign off the new year with a session on indexing by our very own Andreas Etelkozi. We look forward toseeing you all there!</p> 
 
 > <b>About us</b>
 <p>We are a collection of Data Platform professionals in the Tampa Bay Area, associated with the <a href="https://www.microsoft.com/en-us/sql-server/community?activetab=pivot:sqlservertab">Microsoft Azure Data Global Network of User Groups</a>. We meet every month on the third Tuesday at 6PM. If you are interested in joining or presenting with us, please contact David or Buck and we will get you on the calendar!
