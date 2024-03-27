@@ -4,7 +4,7 @@
 
 > <b>Announcements</b>
 
-- <p><b>Our February meeting </b> is on the 20th at 6 PM - Join us for a session on ON-Call Strategies by our very own Ben Marshall We look forward to seeing you all there!</p> 
+- <p><b>Our April meeting </b> is on the 16th at 6 PM - Join us for a session with Jeff Garbus on Advanced Index Tuning. We look forward to seeing you all there!</p> 
 
 > <b>About us</b>
 <p>We are a collection of Data Platform professionals in the Tampa Bay Area, associated with the <a href="https://www.microsoft.com/en-us/sql-server/community?activetab=pivot:sqlservertab">Microsoft Azure Data Global Network of User Groups</a>. We meet every month on the third Tuesday at 6PM. If you are interested in joining or presenting with us, please contact David or Buck and we will get you on the calendar!
