@@ -45,6 +45,12 @@ We'll meet in the lobby - each meeting will have introductions, a puzzler, job o
   </tr>
 
   <tr>
+    <td><a href="https://www.linkedin.com/in/kateboss/">Kate Boss</a></td>
+    <td>Co-Lead - Social Media Management</td>
+  </tr>
+
+
+  <tr>
     <td><a href="https://twitter.com/TBSSUG">Twitter</a></td>
     <td>Announcements and helpful resources</td>
   </tr>
