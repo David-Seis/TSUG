@@ -1,0 +1,286 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Eastern Standard Time
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ATTENDEE;CN="David seis";RSVP=TRUE:mailto:dse.saved@gmail.com
+CATEGORIES:Events
+CLASS:PUBLIC
+CREATED:20230517T124449Z
+DESCRIPTION:https://aka.ms/tsug\n\n\nTampa Bay SQL Server User Group (TSUG)
+	\n\n\nAbout us\n\nWe are a collection of data platform professionals in th
+	e Tampa Bay Area and beyond\, associated with the Azure Data Global Networ
+	k of User Groups <https://www.microsoft.com/en-us/sql-server/community?act
+	ivetab=pivot:sqlservertab> . We meet every month on the third Tuesday at 6
+	PM. If you are interested in joining or presenting with us\, please contac
+	t David or Buck and we will get you on the calendar!\n\nMeetings\n\nWe mee
+	t in-person on the third Tuesday of every month for about an hour and a ha
+	lf\, at the IO Associates building <https://www.bing.com/maps?&mepi=109~~T
+	opOfPage~Address_Link&ty=18&q=iO%20Associates%20-%20Tampa&ss=ypid.YN873x17
+	311666291203835826&ppois=27.94316864013672_-82.4468002319336_iO%20Associat
+	es%20-%20Tampa_YN873x17311666291203835826~&cp=27.943169~-82.4468&v=2&sV=1>
+	  right next to the Port of Tampa. You can enter at the coffee shop to the
+	 right of the lobby\, head to the door in the back\, and wait in the build
+	ing lobby. We'll have someone meet you there and bring you to the meeting 
+	location.\n\nLocation\n\nOur meeting location has been graciously provided
+	 by iO Associates <https://www.ioassociates.com/>  - (813) 437-1458 Addres
+	s: 615 Channelside Dr\, Tampa\, FL 33602 <https://www.bing.com/maps?&mepi=
+	109~~TopOfPage~Address_Link&ty=18&q=iO%20Associates%20-%20Tampa&ss=ypid.YN
+	873x17311666291203835826&ppois=27.94316864013672_-82.4468002319336_iO%20As
+	sociates%20-%20Tampa_YN873x17311666291203835826~&cp=27.943169~-82.4468&v=2
+	&sV=1> \n\nThere is parking just across the street - it's just 2$ an hour\
+	, so very inexpensive for the area. The Port Tampa Bay parking garage is l
+	ocated across the street from the central cruise terminal: <https://www.bi
+	ng.com/search?q=810+Channelside+Drive&aqs=edge..69i57j69i11004&FORM=ANCMS9
+	&PC=U531> \n\nPort Tampa Bay Cruise Terminal 3 – 815 Channelside Drive\,
+	 Tampa\, Florida 33602).\n\nSigns on-site also direct cruise passengers to
+	 long term parking\, but turn into the area that says "Short Term Parking"
+	.\n\nYou'll find lots to do in this area\, from Sparkman Wharf <https://sp
+	arkmanwharf.com/>  to Ybor City <https://yborcityonline.com/>  if you want
+	 to come early\, stay late\, or bring your family!\n\nContact Us\n\nDavid 
+	Seis <https://www.linkedin.com/in/davidseis/> \n\nGroup Lead\n\nBuck Woody
+	 <https://www.linkedin.com/in/buckwoody/> \n\nCo-Lead\n\nTwitter <https://
+	twitter.com/TBSSUG> \n\nAnnouncements and helpful resources\n\nLinkedin <h
+	ttps://www.linkedin.com/groups/1893703/> \n\nA professional group for TSUG
+	 on LinkedIn that you can ask to join. Network with your peers!\n\nFaceboo
+	k <https://www.facebook.com/tbssug/> \n\nA Facebook Group for TSUG\, and w
+	e have the ability to do virtual events there from time to time.\n\nWe're 
+	always looking for volunteers\, officers\, presenters and more - hit us up
+	 at the links above for your opportunity!\n\n \n\n
+DTEND;TZID="Eastern Standard Time":20230620T200000
+DTSTAMP:20230517T124417Z
+DTSTART;TZID="Eastern Standard Time":20230620T180000
+LAST-MODIFIED:20230517T124449Z
+LOCATION:615 Channelside Dr\, Tampa\, FL 33602
+ORGANIZER;CN="Buck Woody":mailto:Buck.Woody@microsoft.com
+PRIORITY:5
+RRULE:FREQ=MONTHLY;COUNT=13;BYDAY=TU;BYSETPOS=3
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Tampa Bay SQL Server User Group Meeting
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000F09F230C9B88D901000000000000000
+	010000000DADED0A7CDFB6A4A9082C68DAA59DA93
+X-ALT-DESC;FMTTYPE=text/html:<html xmlns:v="urn:schemas-microsoft-com:vml" 
+	xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-mic
+	rosoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/
+	12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta name=Generato
+	r content="Microsoft Word 15 (filtered medium)"><style><!--\n/* Font Defin
+	itions */\n@font-face\n	{font-family:"Cambria Math"\;\n	panose-1:2 4 5 3 5
+	 4 6 3 2 4\;}\n@font-face\n	{font-family:Calibri\;\n	panose-1:2 15 5 2 2 2
+	 4 3 2 4\;}\n@font-face\n	{font-family:"Segoe UI"\;\n	panose-1:2 11 5 2 4 
+	2 4 2 2 3\;}\n/* Style Definitions */\np.MsoNormal\, li.MsoNormal\, div.Ms
+	oNormal\n	{margin:0in\;\n	font-size:11.0pt\;\n	font-family:"Calibri"\,sans
+	-serif\;\n	mso-ligatures:standardcontextual\;}\nh1\n	{mso-style-priority:9
+	\;\n	mso-style-link:"Heading 1 Char"\;\n	mso-margin-top-alt:auto\;\n	margi
+	n-right:0in\;\n	mso-margin-bottom-alt:auto\;\n	margin-left:0in\;\n	font-si
+	ze:24.0pt\;\n	font-family:"Calibri"\,sans-serif\;\n	font-weight:bold\;}\na
+	:link\, span.MsoHyperlink\n	{mso-style-priority:99\;\n	color:#0563C1\;\n	t
+	ext-decoration:underline\;}\nspan.EmailStyle17\n	{mso-style-type:personal-
+	compose\;\n	font-family:"Calibri"\,sans-serif\;\n	color:windowtext\;}\nspa
+	n.Heading1Char\n	{mso-style-name:"Heading 1 Char"\;\n	mso-style-priority:9
+	\;\n	mso-style-link:"Heading 1"\;\n	font-family:"Calibri"\,sans-serif\;\n	
+	mso-ligatures:none\;\n	font-weight:bold\;}\n.MsoChpDefault\n	{mso-style-ty
+	pe:export-only\;}\n@page WordSection1\n	{size:8.5in 11.0in\;\n	margin:1.0i
+	n 1.0in 1.0in 1.0in\;}\ndiv.WordSection1\n	{page:WordSection1\;}\n--></sty
+	le><!--[if gte mso 9]><xml>\n<o:shapedefaults v:ext="edit" spidmax="1026" 
+	/>\n</xml><![endif]--><!--[if gte mso 9]><xml>\n<o:shapelayout v:ext="edit
+	">\n<o:idmap v:ext="edit" data="1" />\n</o:shapelayout></xml><![endif]--><
+	/head><body lang=EN-US link="#0563C1" vlink="#954F72" style='word-wrap:bre
+	ak-word'><div class=WordSection1><p class=MsoNormal><a href="https://aka.m
+	s/tsug">https://aka.ms/tsug</a><o:p></o:p></p><h1 style='mso-margin-top-al
+	t:.25in\;margin-right:0in\;margin-bottom:12.0pt\;margin-left:0in\;backgrou
+	nd:white'><span style='font-size:22.0pt\;font-family:"Segoe UI"\,sans-seri
+	f\;color:#1F2328'>Tampa Bay SQL Server User Group (TSUG)<o:p></o:p></span>
+	</h1><p style='margin:0in\;background:white\;box-sizing: border-box'><b><s
+	pan style='font-size:12.0pt\;font-family:"Segoe UI"\,sans-serif\;color:bla
+	ck'>About us</span></b><span style='font-size:12.0pt\;font-family:"Segoe U
+	I"\,sans-serif'><o:p></o:p></span></p><p style='mso-margin-top-alt:0in\;ma
+	rgin-right:0in\;margin-bottom:12.0pt\;margin-left:0in\;background:white\;b
+	ox-sizing: border-box\;font-variant-ligatures: normal\;font-variant-caps: 
+	normal\;orphans: 2\;text-align:start\;widows: 2\;-webkit-text-stroke-width
+	: 0px\;text-decoration-thickness: initial\;text-decoration-style: initial\
+	;text-decoration-color: initial\;word-spacing:0px'><span style='font-size:
+	12.0pt\;font-family:"Segoe UI"\,sans-serif\;color:#1F2328'>We are a collec
+	tion of data platform professionals in the Tampa Bay Area and beyond\, ass
+	ociated with the&nbsp\;<a href="https://www.microsoft.com/en-us/sql-server
+	/community?activetab=pivot:sqlservertab">Azure Data Global Network of User
+	 Groups</a>. We meet every month on the third Tuesday at 6PM. If you are i
+	nterested in joining or presenting with us\, please contact David or Buck 
+	and we will get you on the calendar!<o:p></o:p></span></p><p style='margin
+	:0in\;background:white\;box-sizing: border-box'><b><span style='font-size:
+	12.0pt\;font-family:"Segoe UI"\,sans-serif\;color:black'>Meetings</span></
+	b><span style='font-size:12.0pt\;font-family:"Segoe UI"\,sans-serif'><o:p>
+	</o:p></span></p><p style='mso-margin-top-alt:0in\;margin-right:0in\;margi
+	n-bottom:12.0pt\;margin-left:0in\;background:white\;box-sizing: border-box
+	\;font-variant-ligatures: normal\;font-variant-caps: normal\;orphans: 2\;t
+	ext-align:start\;widows: 2\;-webkit-text-stroke-width: 0px\;text-decoratio
+	n-thickness: initial\;text-decoration-style: initial\;text-decoration-colo
+	r: initial\;word-spacing:0px'><span style='font-size:12.0pt\;font-family:"
+	Segoe UI"\,sans-serif\;color:#1F2328'>We meet in-person on the third Tuesd
+	ay of every month for about an hour and a half\, at the&nbsp\;<a href="htt
+	ps://www.bing.com/maps?&amp\;mepi=109~~TopOfPage~Address_Link&amp\;ty=18&a
+	mp\;q=iO%20Associates%20-%20Tampa&amp\;ss=ypid.YN873x17311666291203835826&
+	amp\;ppois=27.94316864013672_-82.4468002319336_iO%20Associates%20-%20Tampa
+	_YN873x17311666291203835826~&amp\;cp=27.943169~-82.4468&amp\;v=2&amp\;sV=1
+	">IO Associates building</a>&nbsp\;right next to the Port of Tampa. You ca
+	n enter at the coffee shop to the right of the lobby\, head to the door in
+	 the back\, and wait in the building lobby. We'll have someone meet you th
+	ere and bring you to the meeting location.<o:p></o:p></span></p><p style='
+	margin:0in\;background:white\;box-sizing: border-box\;font-variant-ligatur
+	es: normal\;font-variant-caps: normal\;orphans: 2\;text-align:start\;widow
+	s: 2\;-webkit-text-stroke-width: 0px\;text-decoration-thickness: initial\;
+	text-decoration-style: initial\;text-decoration-color: initial\;word-spaci
+	ng:0px'><b><span style='font-size:12.0pt\;font-family:"Segoe UI"\,sans-ser
+	if\;color:black'>Location</span></b><span style='font-size:12.0pt\;font-fa
+	mily:"Segoe UI"\,sans-serif'><o:p></o:p></span></p><p style='mso-margin-to
+	p-alt:0in\;margin-right:0in\;margin-bottom:12.0pt\;margin-left:0in\;backgr
+	ound:white\;box-sizing: border-box\;font-variant-ligatures: normal\;font-v
+	ariant-caps: normal\;orphans: 2\;text-align:start\;widows: 2\;-webkit-text
+	-stroke-width: 0px\;text-decoration-thickness: initial\;text-decoration-st
+	yle: initial\;text-decoration-color: initial\;word-spacing:0px'><span styl
+	e='font-size:12.0pt\;font-family:"Segoe UI"\,sans-serif\;color:#1F2328'>Ou
+	r meeting location has been graciously provided by&nbsp\;<a href="https://
+	www.ioassociates.com/">iO Associates</a>&nbsp\;- (813) 437-1458&nbsp\;<b>A
+	ddress:&nbsp\;</b><a href="https://www.bing.com/maps?&amp\;mepi=109~~TopOf
+	Page~Address_Link&amp\;ty=18&amp\;q=iO%20Associates%20-%20Tampa&amp\;ss=yp
+	id.YN873x17311666291203835826&amp\;ppois=27.94316864013672_-82.44680023193
+	36_iO%20Associates%20-%20Tampa_YN873x17311666291203835826~&amp\;cp=27.9431
+	69~-82.4468&amp\;v=2&amp\;sV=1">615 Channelside Dr\, Tampa\, FL 33602</a><
+	o:p></o:p></span></p><p style='mso-margin-top-alt:0in\;margin-right:0in\;m
+	argin-bottom:12.0pt\;margin-left:0in\;background:white\;box-sizing: border
+	-box\;font-variant-ligatures: normal\;font-variant-caps: normal\;orphans: 
+	2\;text-align:start\;widows: 2\;-webkit-text-stroke-width: 0px\;text-decor
+	ation-thickness: initial\;text-decoration-style: initial\;text-decoration-
+	color: initial\;word-spacing:0px'><span style='font-size:12.0pt\;font-fami
+	ly:"Segoe UI"\,sans-serif\;color:#1F2328'>There is parking just across the
+	 street - it's just 2$ an hour\, so very inexpensive for the area. The Por
+	t Tampa Bay parking garage is&nbsp\;<a href="https://www.bing.com/search?q
+	=810+Channelside+Drive&amp\;aqs=edge..69i57j69i11004&amp\;FORM=ANCMS9&amp\
+	;PC=U531">located across the street from the central cruise terminal:</a><
+	o:p></o:p></span></p><p style='mso-margin-top-alt:0in\;margin-right:0in\;m
+	argin-bottom:12.0pt\;margin-left:0in\;background:white\;box-sizing: border
+	-box\;font-variant-ligatures: normal\;font-variant-caps: normal\;orphans: 
+	2\;text-align:start\;widows: 2\;-webkit-text-stroke-width: 0px\;text-decor
+	ation-thickness: initial\;text-decoration-style: initial\;text-decoration-
+	color: initial\;word-spacing:0px'><span style='font-size:12.0pt\;font-fami
+	ly:"Segoe UI"\,sans-serif\;color:#1F2328'>Port Tampa Bay Cruise Terminal 3
+	 &#8211\; 815 Channelside Drive\, Tampa\, Florida 33602).<o:p></o:p></span
+	></p><p style='mso-margin-top-alt:0in\;margin-right:0in\;margin-bottom:12.
+	0pt\;margin-left:0in\;background:white\;box-sizing: border-box\;font-varia
+	nt-ligatures: normal\;font-variant-caps: normal\;orphans: 2\;text-align:st
+	art\;widows: 2\;-webkit-text-stroke-width: 0px\;text-decoration-thickness:
+	 initial\;text-decoration-style: initial\;text-decoration-color: initial\;
+	word-spacing:0px'><span style='font-size:12.0pt\;font-family:"Segoe UI"\,s
+	ans-serif\;color:#1F2328'>Signs on-site also direct cruise passengers to l
+	ong term parking\, but turn into the area that says &quot\;Short Term Park
+	ing&quot\;.<o:p></o:p></span></p><p style='mso-margin-top-alt:0in\;margin-
+	right:0in\;margin-bottom:12.0pt\;margin-left:0in\;background:white\;box-si
+	zing: border-box\;font-variant-ligatures: normal\;font-variant-caps: norma
+	l\;orphans: 2\;text-align:start\;widows: 2\;-webkit-text-stroke-width: 0px
+	\;text-decoration-thickness: initial\;text-decoration-style: initial\;text
+	-decoration-color: initial\;word-spacing:0px'><span style='font-size:12.0p
+	t\;font-family:"Segoe UI"\,sans-serif\;color:#1F2328'>You'll find lots to 
+	do in this area\, from&nbsp\;<a href="https://sparkmanwharf.com/">Sparkman
+	 Wharf</a>&nbsp\;to&nbsp\;<a href="https://yborcityonline.com/">Ybor City<
+	/a>&nbsp\;if you want to come early\, stay late\, or bring your family!<o:
+	p></o:p></span></p><p style='margin:0in\;background:white\;box-sizing: bor
+	der-box'><b><span style='font-size:12.0pt\;font-family:"Segoe UI"\,sans-se
+	rif\;color:black'>Contact Us</span></b><span style='font-size:12.0pt\;font
+	-family:"Segoe UI"\,sans-serif'><o:p></o:p></span></p><table class=MsoNorm
+	alTable border=0 cellspacing=0 cellpadding=0 style='background:white\;bord
+	er-collapse:collapse\;box-sizing: border-box\;border-spacing: 0px\;width:m
+	ax-content\;max-width:100%\;font-variant-ligatures: normal\;font-variant-c
+	aps: normal\;orphans: 2\;text-align:start\;widows: 2\;-webkit-text-stroke-
+	width: 0px\;text-decoration-thickness: initial\;text-decoration-style: ini
+	tial\;text-decoration-color: initial\;overflow:auto\;word-spacing:0px'><tr
+	 style='box-sizing: border-box\;background-color:var(--color-canvas-defaul
+	t)\;border-top:var(--color-border-muted)'><td style='padding:4.5pt 9.75pt 
+	4.5pt 9.75pt\;box-sizing: border-box\;border:var(--color-border-default)'>
+	<p class=MsoNormal style='box-sizing: border-box\;font-variant-ligatures: 
+	normal\;font-variant-caps: normal\;orphans: 2\;text-align:start\;widows: 2
+	\;-webkit-text-stroke-width: 0px\;text-decoration-thickness: initial\;text
+	-decoration-style: initial\;text-decoration-color: initial\;word-spacing:0
+	px'><span style='font-size:12.0pt\;font-family:"Segoe UI"\,sans-serif\;col
+	or:#1F2328'><a href="https://www.linkedin.com/in/davidseis/">David Seis</a
+	><o:p></o:p></span></p></td><td style='padding:4.5pt 9.75pt 4.5pt 9.75pt\;
+	box-sizing: border-box\;border:var(--color-border-default)'><p class=MsoNo
+	rmal><span style='font-size:12.0pt\;font-family:"Segoe UI"\,sans-serif\;co
+	lor:#1F2328'>Group Lead<o:p></o:p></span></p></td></tr><tr style='box-sizi
+	ng: border-box\;background-color:var(--color-canvas-subtle)\;border-top:va
+	r(--color-border-muted)'><td style='padding:4.5pt 9.75pt 4.5pt 9.75pt\;box
+	-sizing: border-box\;border:var(--color-border-default)'><p class=MsoNorma
+	l><span style='font-size:12.0pt\;font-family:"Segoe UI"\,sans-serif\;color
+	:#1F2328'><a href="https://www.linkedin.com/in/buckwoody/">Buck Woody</a><
+	o:p></o:p></span></p></td><td style='padding:4.5pt 9.75pt 4.5pt 9.75pt\;bo
+	x-sizing: border-box\;border:var(--color-border-default)'><p class=MsoNorm
+	al><span style='font-size:12.0pt\;font-family:"Segoe UI"\,sans-serif\;colo
+	r:#1F2328'>Co-Lead<o:p></o:p></span></p></td></tr><tr style='box-sizing: b
+	order-box\;background-color:var(--color-canvas-default)\;border-top:var(--
+	color-border-muted)'><td style='padding:4.5pt 9.75pt 4.5pt 9.75pt\;box-siz
+	ing: border-box\;border:var(--color-border-default)'><p class=MsoNormal><s
+	pan style='font-size:12.0pt\;font-family:"Segoe UI"\,sans-serif\;color:#1F
+	2328'><a href="https://twitter.com/TBSSUG">Twitter</a><o:p></o:p></span></
+	p></td><td style='padding:4.5pt 9.75pt 4.5pt 9.75pt\;box-sizing: border-bo
+	x\;border:var(--color-border-default)'><p class=MsoNormal><span style='fon
+	t-size:12.0pt\;font-family:"Segoe UI"\,sans-serif\;color:#1F2328'>Announce
+	ments and helpful resources<o:p></o:p></span></p></td></tr><tr style='box-
+	sizing: border-box\;background-color:var(--color-canvas-subtle)\;border-to
+	p:var(--color-border-muted)'><td style='padding:4.5pt 9.75pt 4.5pt 9.75pt\
+	;box-sizing: border-box\;border:var(--color-border-default)'><p class=MsoN
+	ormal><span style='font-size:12.0pt\;font-family:"Segoe UI"\,sans-serif\;c
+	olor:#1F2328'><a href="https://www.linkedin.com/groups/1893703/">Linkedin<
+	/a><o:p></o:p></span></p></td><td style='padding:4.5pt 9.75pt 4.5pt 9.75pt
+	\;box-sizing: border-box\;border:var(--color-border-default)'><p class=Mso
+	Normal><span style='font-size:12.0pt\;font-family:"Segoe UI"\,sans-serif\;
+	color:#1F2328'>A professional group for TSUG on LinkedIn that you can ask 
+	to join. Network with your peers!<o:p></o:p></span></p></td></tr><tr style
+	='box-sizing: border-box\;background-color:var(--color-canvas-default)\;bo
+	rder-top:var(--color-border-muted)'><td style='padding:4.5pt 9.75pt 4.5pt 
+	9.75pt\;box-sizing: border-box\;border:var(--color-border-default)'><p cla
+	ss=MsoNormal><span style='font-size:12.0pt\;font-family:"Segoe UI"\,sans-s
+	erif\;color:#1F2328'><a href="https://www.facebook.com/tbssug/">Facebook</
+	a><o:p></o:p></span></p></td><td style='padding:4.5pt 9.75pt 4.5pt 9.75pt\
+	;box-sizing: border-box\;border:var(--color-border-default)'><p class=MsoN
+	ormal><span style='font-size:12.0pt\;font-family:"Segoe UI"\,sans-serif\;c
+	olor:#1F2328'>A Facebook Group for TSUG\, and we have the ability to do vi
+	rtual events there from time to time.<o:p></o:p></span></p></td></tr></tab
+	le><p style='mso-margin-top-alt:0in\;margin-right:0in\;margin-bottom:12.0p
+	t\;margin-left:0in\;background:white\;box-sizing: border-box\;font-variant
+	-ligatures: normal\;font-variant-caps: normal\;orphans: 2\;text-align:star
+	t\;widows: 2\;-webkit-text-stroke-width: 0px\;text-decoration-thickness: i
+	nitial\;text-decoration-style: initial\;text-decoration-color: initial\;wo
+	rd-spacing:0px'><b><span style='font-size:12.0pt\;font-family:"Segoe UI"\,
+	sans-serif\;color:#1F2328'>We're always looking for volunteers\, officers\
+	, presenters and more - hit us up at the links above for your opportunity!
+	</span></b><span style='font-size:12.0pt\;font-family:"Segoe UI"\,sans-ser
+	if\;color:#1F2328'><o:p></o:p></span></p><p class=MsoNormal><o:p>&nbsp\;</
+	o:p></p></div></body></html>
+X-MICROSOFT-CDO-BUSYSTATUS:OOF
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTSEQTIME:20230517T124417Z
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT1440M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
