@@ -7,12 +7,12 @@
 - <p><b>Our May meeting </b> is on the 21st at 6 PM - Join us for a session on an intro to PowerBI by our very own Kate Boss! We look forward to seeing you all there!</p> 
 
 > <b>About us</b>
-<p>We are a collection of Data Platform professionals in the Tampa Bay Area, associated with the <a href="https://www.microsoft.com/en-us/sql-server/community?activetab=pivot:sqlservertab">Microsoft Azure Data Global Network of User Groups</a>. We meet every month on the third Tuesday at 6PM. If you are interested in joining or presenting with us, please contact David or Buck and we will get you on the calendar!
+<p>We are a collection of Data Platform professionals in the Tampa Bay Area, associated with the <a href="https://www.microsoft.com/en-us/sql-server/community?activetab=pivot:sqlservertab">Microsoft Azure Data Global Network of User Groups</a>. We meet every month on the third Tuesday at 6PM. If you are interested in joining or presenting with us, please contact David, Buck or Kate and we will get you on the calendar!
 
 > <b>Meetings</b>
 <p>
 <strong>NEW MEETING LOCATION</strong>
-We meet in-person on the third Tuesday of every month for about an hour and a half, at the <a href="1150 Assembly Dr Suite 500, Tampa, FL 33607">KForce Building</a> right next 275 on Dale Mabry. Parking will be **FREE** at the connected <a href="https://www.google.com/maps/place/Waterview+Garage/@27.9538456,-82.5051155,17.96z/data=!4m6!3m5!1s0x88c2c37578d922b1:0x5d026ed7c0f72883!8m2!3d27.9538946!4d-82.5030202!16s%2Fg%2F11nmnpj8vy?entry=ttu">Waterview parking garage</a>
+We meet in-person on the third Tuesday of every month for about an hour and a half, at the <a href="1150 Assembly Dr Suite 500, Tampa, FL 33607">KForce Building</a> right next 275 on Dale Mabry. Parking will be <strong>FREE</strong> at the connected <a href="https://www.google.com/maps/place/Waterview+Garage/@27.9538456,-82.5051155,17.96z/data=!4m6!3m5!1s0x88c2c37578d922b1:0x5d026ed7c0f72883!8m2!3d27.9538946!4d-82.5030202!16s%2Fg%2F11nmnpj8vy?entry=ttu">Waterview Parking Garage</a>
 
 Some notes for parking:
 - Park on the 3rd floor or above
@@ -31,18 +31,22 @@ Each meeting will have introductions, a puzzler, job openings, an brief session 
 <p><a href="https://github.com/David-Seis/TSUG/blob/main/Resources/references/tsug.ics"><i>You can download a repeating calendar reminder here. Click the "Download to Raw File" option on that page (next to the pencil icon to the right) and save it with the name "<b>tsug.ics</b>", and then double-click that file to import it into your mail program</i>.</a></p>
 
 > <b>Location</b>
-<p>Our meeting location has been graciously provided by <a href="https://www.kforce.com/">Kforce</a> and Jimmy Sculion- (813) 437-1458</p>
+<p>Our meeting location has been graciously provided by <a href="https://www.kforce.com/">Kforce</a> and Jimmy Scullion- jscullion@kforce.com</p>
 
 <p><b>Address: </b><a href="https://www.bing.com/maps?cp=27.953441%7E-82.504609&lvl=18.1"> 1150 Assembly Dr Suite 500, Tampa, FL 33607</a></p>
 
-<p>When you get to the address, walk in to the coffee shop next door, and head to the back. To the left is a door that leads to the lobby. Have a seat on the couch, and we'll come down and bring you up to the event.</p>  
+<p>When you get to the address, enter the building from the first floor or second floor parking garage sky bridge, and head to the elevators. Go up to the 5th floor and check in, we will be there to let you in to the area.</p>  
 
-<p><b>Parking</b>: There is parking just across the street - it's just 2$ an hour, so very inexpensive for the area. The Port Tampa Bay parking garage is <a href="https://www.bing.com/search?q=810+Channelside+Drive&aqs=edge..69i57j69i11004&FORM=ANCMS9&PC=U531">located across the street from the central cruise terminal:</p>
-<p>Port Tampa Bay Cruise Terminal 3 – 815 Channelside Drive, Tampa, Florida 33602)</a>.</p>  
-<p>Signs on-site also direct cruise passengers to long term parking, but turn into the area that says "Short Term Parking".</p>
+<p><b>Parking</b>: There is <strong>FREE</strong> parking in the attached parking garage. This is the address: <a href="https://www.google.com/maps/place/W+Arch+St,+Tampa,+FL+33607/@27.9537037,-82.5030219,19.38z/data=!4m6!3m5!1s0x88c2c309f603b769:0x2f7a7fd565883624!8m2!3d27.9538879!4d-82.5030738!16s%2Fg%2F11c2dcp3p6?entry=ttu">l
+Some notes for parking:
+- Park on the 3rd floor or above
+- Do not park in any spot that says "Reserved for X"
+- The 3rd level of the parking garage has a sky-bridge to the 2nd floor of the Kforce building.
+- DO NOT PARK AT Wholefoods. Parking in the area is monitored closely and you will likely get a ticket or towed. 
 
-<p>You'll find lots to do in this area, from <a href="https://sparkmanwharf.com/">Sparkman Wharf</a> to <a href="https://yborcityonline.com/">Ybor City</a> if you want to come early, stay late, or bring your family!</p>
+</p>
 
+<p>You'll find lots to do in this area, learn more here: <a href="https://midtowntampa.com/">Midtown Tampa</a>. There are defintely some places to grab a bite to eat before our meetings. 
 > <b>Contact Us</b>
 
 <p> 
