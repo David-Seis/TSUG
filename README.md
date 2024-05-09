@@ -3,23 +3,37 @@
 # Tampa Bay SQL Server User Group (TSUG)
 
 > <b>Announcements</b>
-
-- <p><b>Our May meeting </b> is on the 21st at 6 PM - Join us for a session TBD. We look forward to seeing you all there!</p> 
+- <p>NEW USER GROUP LOCATION : We will now be meeting at the KFORCE building in midtown. Look below for the details on location, parking, and more!</p>
+- <p><b>Our May meeting </b> is on the 21st at 6 PM - Join us for a session on an intro to PowerBI by our very own Kate Boss! We look forward to seeing you all there!</p> 
 
 > <b>About us</b>
 <p>We are a collection of Data Platform professionals in the Tampa Bay Area, associated with the <a href="https://www.microsoft.com/en-us/sql-server/community?activetab=pivot:sqlservertab">Microsoft Azure Data Global Network of User Groups</a>. We meet every month on the third Tuesday at 6PM. If you are interested in joining or presenting with us, please contact David or Buck and we will get you on the calendar!
 
 > <b>Meetings</b>
-<p>We meet in-person on the third Tuesday of every month for about an hour and a half, at the <a href="https://www.bing.com/maps?&mepi=109~~TopOfPage~Address_Link&ty=18&q=iO%20Associates%20-%20Tampa&ss=ypid.YN873x17311666291203835826&ppois=27.94316864013672_-82.4468002319336_iO%20Associates%20-%20Tampa_YN873x17311666291203835826~&cp=27.943169~-82.4468&v=2&sV=1">IO Associates building</a> right next to the Port of Tampa. You can enter at the coffee shop to the right of the lobby, head to the door in the back, and wait in the building lobby. We'll have someone meet you there and bring you to the meeting location.</p>
+<p>
+**NEW MEETING LOCATION ***
+We meet in-person on the third Tuesday of every month for about an hour and a half, at the <a href="1150 Assembly Dr Suite 500, Tampa, FL 33607">KForce Building</a> right next 275 on Dale Mabry. Parking will be **FREE** at the connected <a href="https://www.google.com/maps/place/Waterview+Garage/@27.9538456,-82.5051155,17.96z/data=!4m6!3m5!1s0x88c2c37578d922b1:0x5d026ed7c0f72883!8m2!3d27.9538946!4d-82.5030202!16s%2Fg%2F11nmnpj8vy?entry=ttu">Waterview parking garage</a>
 
-We'll meet in the lobby - each meeting will have introductions, a puzzler, job openings, an brief session on a useful SQL server skill or tool, and meet-and-greet, and closing. Pizza provided! Please RVSP on <a href="https://www.meetup.com/tampa-sql-user-groups/">Meetup</a> so that food can be provided! Location is below.
+Some notes for parking:
+- Park on the 3rd floor or above
+- Do not park in any spot that says "Reserved for X"
+- The 3rd level of the parking garage has a sky-bridge to the 2nd floor of the Kforce building.
+- DO NOT PARK AT Wholefoods. Parking in the area is monitored closely and you will likely get a ticket or towed. 
+</p>
 
-<p></p><a href="https://github.com/David-Seis/TSUG/blob/main/Resources/references/tsug.ics"><i>You can download a repeating calendar reminder here. Click the "Download to Raw File" option on that page (next to the pencil icon to the right) and save it with the name "<b>tsug.ics</b>", and then double-click that file to import it into your mail program</i>.</a></p>
+<p>
+The KForce Team will be stationed at both the First floor and 2nd floor entrances of the building. Once inside the building we will go to the 5th floor. Kforce asks us to check in at the Kiosk for tracking and then we will be let into the area. They will only be stationed until 6:30. After 7 there will be restricted and difficult access, so please make sure to arrive by 6:30 at the latest!
+
+Each meeting will have introductions, a puzzler, job openings, an brief session on a useful SQL server skill or tool, and meet-and-greet, and closing. Pizza provided! Please RVSP on <a href="https://www.meetup.com/tampa-sql-user-groups/">Meetup</a> so that food can be provided! 
+</p>
+
+
+<p><a href="https://github.com/David-Seis/TSUG/blob/main/Resources/references/tsug.ics"><i>You can download a repeating calendar reminder here. Click the "Download to Raw File" option on that page (next to the pencil icon to the right) and save it with the name "<b>tsug.ics</b>", and then double-click that file to import it into your mail program</i>.</a></p>
 
 > <b>Location</b>
-<p>Our meeting location has been graciously provided by <a href="https://www.ioassociates.com">iO Associates</a> - (813) 437-1458</p>
+<p>Our meeting location has been graciously provided by <a href="https://www.kforce.com/">Kforce</a> and Jimmy Sculion- (813) 437-1458</p>
 
-<p><b>Address: </b><a href="https://www.bing.com/maps?&mepi=109~~TopOfPage~Address_Link&ty=18&q=iO%20Associates%20-%20Tampa&ss=ypid.YN873x17311666291203835826&ppois=27.94316864013672_-82.4468002319336_iO%20Associates%20-%20Tampa_YN873x17311666291203835826~&cp=27.943169~-82.4468&v=2&sV=1"> 615 Channelside Dr, Tampa, FL 33602</a></p>
+<p><b>Address: </b><a href="https://www.bing.com/maps?cp=27.953441%7E-82.504609&lvl=18.1"> 1150 Assembly Dr Suite 500, Tampa, FL 33607</a></p>
 
 <p>When you get to the address, walk in to the coffee shop next door, and head to the back. To the left is a door that leads to the lobby. Have a seat on the couch, and we'll come down and bring you up to the event.</p>  
 
