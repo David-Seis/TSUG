@@ -3,7 +3,7 @@
 # Tampa Bay SQL Server User Group (TSUG)
 
 > <b>Announcements</b>
-- <p>NEW USER GROUP LOCATION : We will now be meeting at the KFORCE building in midtown. Look below for the details on location, parking, and more!</p>
+- <p>***NEW MEETING LOCATION*** : We will now be meeting at the KFORCE building in midtown. Look below for the details on location, parking, and more!</p>
 - <p><b>Our May meeting </b> is on the 21st at 6 PM - Join us for a session on an intro to PowerBI by our very own Kate Boss! We look forward to seeing you all there!</p> 
 
 > <b>About us</b>
