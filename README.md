@@ -3,7 +3,7 @@
 # Tampa Bay SQL Server User Group (TSUG)
 
 > <b>Announcements</b>
-- <p>***NEW MEETING LOCATION*** : We will now be meeting at the KFORCE building in midtown. Look below for the details on location, parking, and more!</p>
+- <p>**NEW MEETING LOCATION** : We will now be meeting at the KFORCE building in midtown. Look below for the details on location, parking, and more!</p>
 - <p><b>Our May meeting </b> is on the 21st at 6 PM - Join us for a session on an intro to PowerBI by our very own Kate Boss! We look forward to seeing you all there!</p> 
 
 > <b>About us</b>
@@ -11,7 +11,7 @@
 
 > <b>Meetings</b>
 <p>
-**NEW MEETING LOCATION ***
+**NEW MEETING LOCATION**
 We meet in-person on the third Tuesday of every month for about an hour and a half, at the <a href="1150 Assembly Dr Suite 500, Tampa, FL 33607">KForce Building</a> right next 275 on Dale Mabry. Parking will be **FREE** at the connected <a href="https://www.google.com/maps/place/Waterview+Garage/@27.9538456,-82.5051155,17.96z/data=!4m6!3m5!1s0x88c2c37578d922b1:0x5d026ed7c0f72883!8m2!3d27.9538946!4d-82.5030202!16s%2Fg%2F11nmnpj8vy?entry=ttu">Waterview parking garage</a>
 
 Some notes for parking:
