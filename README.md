@@ -14,7 +14,9 @@ We are associated with the <a href="https://www.microsoft.com/en-us/sql-server/c
 ### Meeting Location
 We meet at the [KFORCE](https://www.kforce.com/find-an-office/tampa-florida-1/) building on Dale Mabry in Tampa (Directions below). Be there promptly at 6, and come to the 5th floor to sign in. The elevators stop moving up floors at 7 PM.</p>
 
-[**You can find a map and get directions here**](https://www.bing.com/maps?cp=27.953448%7E-82.504554&lvl=17.9) 
+1150 Assembly Drive Suite 500, Tampa, Florida 33607
+
+[**You can find a map and get directions here**](https://www.bing.com/maps?osid=f9193cdd-1ff2-45c4-955a-18527f92e29e&cp=27.953448~-82.50603&lvl=17.85&pi=0&v=2&sV=2&form=S00027) 
 
 There is <strong>FREE</strong> parking in the attached parking garage. This is the address: <a href="https://www.google.com/maps/place/W+Arch+St,+Tampa,+FL+33607/@27.9537037,-82.5030219,19.38z/data=!4m6!3m5!1s0x88c2c309f603b769:0x2f7a7fd565883624!8m2!3d27.9538879!4d-82.5030738!16s%2Fg%2F11c2dcp3p6?entry=ttu">Waterview Parking Garage</a>
 
