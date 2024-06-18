@@ -35,13 +35,12 @@ There is <strong>FREE</strong> parking in the attached parking garage. This is t
 If you are interested in joining or presenting with us, please contact David, Buck or Kate and we will get you on the calendar!
 
 ### Meetings
-<p><b>Our June meeting </b> is on the 18th at 6 PM - Join us for a session on an **"Overview of Microsoft Fabric Analytics"** with Dan Taylor. We look forward to seeing you all there!</p> 
-<p><b>Our July meeting </b> is on the 16th at 6 PM - Join us for a session on an **"AI for the Data Professional"** with Buck Woody</p> 
+<p><b>Our June meeting </b> is on the 18th at 6 PM - Join us for a session on an **"Overview of Microsoft Fabric Analytics"** with Dan Taylor. We look forward to seeing you all there!</p> Please <a href="https://www.meetup.com/tampa-sql-user-groups/">register at this link so that the facilities has an accurate count of attendance</a>.</p>
 
 <p>
-The KForce Team will be stationed at both the First floor and 2nd floor entrances of the building. Once inside the building we will go to the 5th floor. Kforce asks us to check in at the Kiosk for tracking and then we will be let into the area. They will only be stationed until 6:30. After 7 there will be restricted and difficult access, so please make sure to arrive by 6:30 at the latest!
+The KForce Team will be stationed at both the First floor and 2nd floor entrances of the building. Once inside the building we will go to the 5th floor. Kforce asks us to check in at the Kiosk for tracking and then we will be let into the area. They will only be stationed until 6:30. After 7 there will be restricted and difficult access, so please make sure to arrive by 6:30 at the latest!</p>
 
-Each meeting will have introductions, a puzzler, job openings, an brief session on a useful SQL server skill or tool, and meet-and-greet, and closing. 
+<p>Each meeting will have introductions, a puzzler, job openings, an brief session on a useful SQL server skill or tool, and meet-and-greet, and closing. 
 Please RVSP on <a href="https://www.meetup.com/tampa-sql-user-groups/">Meetup</a> for every meeting so that we can account for when food is provided! 
 </p>
 
