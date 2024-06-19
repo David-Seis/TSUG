@@ -1,5 +1,13 @@
 <a href="https://www.meetup.com/tampa-sql-user-groups/"><img src="/Resources/graphics/tfab.png" width=800 alt="Tampa with community group name overlay"> </a>
 
+## <b>Announcements</b>
+
+- Please download the TELEGRAM app to communicate with us on meeting days and for the most recent annoucements. There are two groups to join, the first is the notifcation channel, the second is the chat room. We will use this to have one point of contact for all leaders, and to assist with avoiding missing anyone stuck outside due to us not checking the right communication channel.
+  1. The general notifications channel: https://t.me/tampabaysql
+  2. The chat channel for requests: <coming soon>
+  
+- If you are interested in joining or presenting with us, please contact David, Buck or Kate and we will get you on the calendar!
+
 # Tampa Bay Microsoft Fabric User Group (TFAB)
 
 Welcome to the **Tampa Bay Microsoft Fabric Analytics User Group (TFAB)**! We are a diverse community of technical professionals, ranging from beginners to experts, united by our passion for Microsoft Fabric Analytics. Our group covers the entire platform, providing a comprehensive understanding of its features and capabilities. 
@@ -30,12 +38,10 @@ There is <strong>FREE</strong> parking in the attached parking garage. This is t
 
 <p>You'll find lots to do in this area, learn more here: <a href="https://midtowntampa.com/">Midtown Tampa</a>. There are quite a few places to grab a bite to eat before our meetings.
 
-## <b>Announcements</b>
 
-If you are interested in joining or presenting with us, please contact David, Buck or Kate and we will get you on the calendar!
 
 ### Meetings
-<p><b>Our June meeting </b> is on the 18th at 6 PM - Join us for a session on an **"Overview of Microsoft Fabric Analytics"** with Dan Taylor. We look forward to seeing you all there!</p> Please <a href="https://www.meetup.com/tampa-sql-user-groups/">register at this link so that the facilities has an accurate count of attendance</a>.</p>
+<p><b>Our July meeting </b> is on the 16th at 6 PM - Join us for a session on an **"Mentoring Strategies with Linkedin"** with Robert Skogland. We look forward to seeing you all there!</p> Please <a href="https://www.meetup.com/tampa-sql-user-groups/">register at this link so that the facilities has an accurate count of attendance</a>.</p>
 
 <p>
 The KForce Team will be stationed at both the First floor and 2nd floor entrances of the building. Once inside the building we will go to the 5th floor. Kforce asks us to check in at the Kiosk for tracking and then we will be let into the area. They will only be stationed until 6:30. After 7 there will be restricted and difficult access, so please make sure to arrive by 6:30 at the latest!</p>
