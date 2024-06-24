@@ -4,7 +4,7 @@
 
 - Please download the TELEGRAM app to communicate with us on meeting days and for the most recent annoucements. There are two groups to join, the first is the notifcation channel, the second is the chat room. We will use this to have one point of contact for all leaders, and to assist with avoiding missing anyone stuck outside due to us not checking the right communication channel.
   1. The general notifications channel: https://t.me/tampabaysql
-  2. The chat channel for requests: <coming soon>
+  2. The chat channel for requests: https://t.me/+gl13E1p7K3dhNWRh
   
 - If you are interested in joining or presenting with us, please contact David, Buck or Kate and we will get you on the calendar!
 
