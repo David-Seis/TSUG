@@ -4,7 +4,7 @@
 
 - Please download the TELEGRAM app to communicate with us on meeting days and for the most recent annoucements. There are two groups to join, the first is the notifcation channel, the second is the chat room. We will use this to have one point of contact for all leaders, and to assist with avoiding missing anyone stuck outside due to us not checking the right communication channel.
   1. The general notifications channel: https://t.me/tampabaysql
-  2. The chat channel for requests: https://t.me/+gl13E1p7K3dhNWRh
+  2. The chat channel for requests is in the general channel, you just need to scroll up!
   
 - If you are interested in joining or presenting with us, please contact David, Buck or Kate and we will get you on the calendar!
 
@@ -41,23 +41,21 @@ There is <strong>FREE</strong> parking in the attached parking garage. This is t
 
 
 ### Meetings
-<p><b>Our August meeting </b> is on the 20th at 6 PM - Join us for a session on an **SQL Injection** with Daniel Dockery. We look forward to seeing you all there!</p> Please <a href="https://www.meetup.com/tampa-sql-user-groups/">register at this link so that the facilities has an accurate count of attendance</a>.</p>
+<p><b>Our September meeting </b> is on the 17th at 6 PM - Join us for a session called **What if your databases could be GenAI machines?** with Rony Chatterjee. We look forward to seeing you all there!</p> Please <a href="https://www.meetup.com/tampa-sql-user-groups/">register at this link so that the facilities has an accurate count of attendance</a>.</p>
 
 <p>
-The KForce Team will be stationed at both the First floor and 2nd floor entrances of the building. Once inside the building we will go to the 5th floor. Kforce asks us to check in at the Kiosk for tracking and then we will be let into the area. They will only be stationed until 6:30. After 7 there will be restricted and difficult access, so please make sure to arrive by 6:30 at the latest!</p>
+The KForce Team will be stationed at both the First floor and 2nd floor entrances of the building. Once inside the building we will go to the 5th floor. Kforce asks us to check in at the Kiosk for tracking and then we will be let into the area. They will only be stationed until 6:30. After 7 there will be NO access to the building, so please make sure to arrive by 6:30 at the latest!</p>
 
 <p>Each meeting will have introductions, a puzzler, job openings, an brief session on a useful SQL server skill or tool, and meet-and-greet, and closing. 
 Please RVSP on <a href="https://www.meetup.com/tampa-sql-user-groups/">Meetup</a> for every meeting so that we can account for when food is provided! 
 </p>
-
-<p><a href="https://github.com/David-Seis/TSUG/blob/main/Resources/references/tsug.ics"><i>You can download a repeating calendar reminder here. Click the "Download to Raw File" option on that page (next to the pencil icon to the right) and save it with the name "<b>tsug.ics</b>", and then double-click that file to import it into your mail program</i>.</a></p>
 
 ## <b>Location</b>
 <p>Our meeting location has been graciously provided by <a href="https://www.kforce.com/">Kforce</a>-  Jimmy Scullion- jscullion@kforce.com</p>
 
 <p><b>Address: </b><a href="https://www.bing.com/maps?cp=27.953441%7E-82.504609&lvl=18.1"> 1150 Assembly Dr Suite 500, Tampa, FL 33607</a></p>
 
-<p>When you get to the address, enter the building from the first floor or second floor parking garage sky bridge, and head to the elevators. Go up to the 5th floor and check in, we will be there to let you in to the area.</p>  
+<p>When you get to the address, enter the building from the first floor or second floor parking garage sky bridge, and head to the elevators. Go up to the 5th floor and check in, we will be there to let you in to the area. Please remember that there is will be no entry to the building after 7:00pm.</p>  
 
 
 ## <b>Contact Us</b>
