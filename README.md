@@ -41,7 +41,15 @@ There is <strong>FREE</strong> parking in the attached parking garage. This is t
 
 
 ### Meetings
-<p><b>Our August meeting </b> is on the 20th at 6 PM - Join us for a session on an **SQL Injection** with Daniel Dockery. We look forward to seeing you all there!</p> Please <a href="https://www.meetup.com/tampa-sql-user-groups/">register at this link so that the facilities has an accurate count of attendance</a>.</p>
+<p><b>Our September meeting </b> is on the 17th at 6 PM - Join us for a session on "What if your databases could be GenAI machines?" In this session, Rony will describe how databases like SQL Server, PostgreSQL and Data warehouses like Snowflake, BigQuery can be transformed into GenAI machines. Rony will explain the challenges of using LLMs for enterprise data and the architectural considerations they needed to take into considerations to provide hallucination free insights from the databases. Rony will explain how at Tursio they create automatic data models and highlight industry specific GenAI use cases they are seeing and how enterprises are adopting GenAI to drive efficiency within their existing workloads using the Tursio platform. We look forward to seeing you all there!</p> Please <a href="https://www.meetup.com/tampa-sql-user-groups/">register at this link so that the facilities has an accurate count of attendance</a>.</p>
+ 
+#### Speaker Details:
+
+Rony is the Co-Founder and Chief Product Officer at Tursio. At Tursio we make Generative AI work for enterprises. Tursio application operates in cloud scale enterprise secure environment and provides hallucination free insights over the data.
+
+<p>Prior to this role, Rony was the General Manager in Amazon Ads delivering Sponsored Products recommendation outside of Amazon on third-party sites which included first party integrations like Pinterest and Brave. Rony was the Head of Product for blended thematic widgets on the Amazon Search Page. His team partnered with several retail teams (Softlines, Hardlines, Consumables, Climate Pledge Friendly)across Amazon to launch blended thematic widget experiences on Amazon search page. </p>
+
+<p>Prior to joining Amazon, Rony was the Sr. Director of the Center of Innovation and Transformation at Microsoft, driving Digital Transformation of the top Azure customers. The Center of Innovation and Transformation led the way in exploring and helping Azure's top customers adopt new technologies, techniques, best practices to digitally transform expand and create value for their businesses. The center of innovation team supported and governed the execution of the Digital Transformation strategy and focused on forward looking opportunities.</p>p>
 
 <p>
 The KForce Team will be stationed at both the First floor and 2nd floor entrances of the building. Once inside the building we will go to the 5th floor. Kforce asks us to check in at the Kiosk for tracking and then we will be let into the area. They will only be stationed until 6:30. After 7 there will be restricted and difficult access, so please make sure to arrive by 6:30 at the latest!</p>
