@@ -43,7 +43,7 @@ There is <strong>FREE</strong> parking in the attached parking garage. This is t
 <p>You'll find lots to do in this area, learn more here: <a href="https://midtowntampa.com/">Midtown Tampa</a>. There are quite a few places to grab a bite to eat before our meetings.
 
 ### Meetings
-<p><b>Our is cancelled due to the storm. Take care of yourself and your families - and we will see you in November!
+<p><b>Our October meeting is cancelled due to the storm. Take care of yourself and your families - and we will see you in November!
 
 When we do resume - Please <a href="https://www.meetup.com/tampa-sql-user-groups/">register at this link so that the facilities has an accurate count of attendance</a>.</p>
  
