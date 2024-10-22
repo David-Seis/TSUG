@@ -39,7 +39,7 @@ There is <strong>FREE</strong> parking in the attached parking garage. This is t
 <p>You'll find lots to do in this area, learn more here: <a href="https://midtowntampa.com/">Midtown Tampa</a>. There are quite a few places to grab a bite to eat before our meetings.
 
 ### Meetings
-<p><b>Our November meeting is our annual social event - join us at 6 PM at the Armature Works location in Tampa. Weather permitting, we'll be at the tables out next to the water, with a load of board games to enjoy. Bring your family!
+<p>Our November meeting is our annual social event - join us at 6 PM at the Armature Works location in Tampa. Weather permitting, we'll be at the tables out next to the water, with a load of board games to enjoy. Bring your family!
 
 <p>You can <a href="https://armatureworks.com/">find the address and directions to Armature Works here</a>.</p>
 Please <a href="https://www.meetup.com/tampa-sql-user-groups/">register at this link so that the facilities has an accurate count of attendance</a>.</p>
