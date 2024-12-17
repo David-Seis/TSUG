@@ -1,5 +1,14 @@
 <a href="https://www.meetup.com/tampa-sql-user-groups/"><img src="/Resources/graphics/tfab.png" width=800 alt="Tampa with community group name overlay"> </a>
 
+### Meetings
+<p> We don't meet in December to allow you to spend time with Family and Friends - but we will pick back up in January for our regular third-Tuesday-of-each-month meetings. Stay tuned and check back here and on Social Media to find out where we are meeting!</p>
+
+<p>Each meeting will have introductions, a puzzler, job openings, an brief session on a useful SQL server skill or tool, and meet-and-greet, and closing. 
+Please RVSP on <a href="https://www.meetup.com/tampa-sql-user-groups/">Meetup</a> for every meeting so that we can account for when food is provided! 
+</p>
+
+<p><a href="https://github.com/David-Seis/TSUG/blob/main/Resources/references/tsug.ics"><i>You can download a repeating calendar reminder here. Click the "Download to Raw File" option on that page (next to the pencil icon to the right) and save it with the name "<b>tsug.ics</b>", and then double-click that file to import it into your mail program</i>.</a></p>
+
 ## <b>Announcements</b>
 
 - Please download the TELEGRAM app to communicate with us on meeting days and for the most recent annoucements. There are two groups to join, the first is the notifcation channel, the second is the chat room. We will use this to have one point of contact for all leaders, and to assist with avoiding missing anyone stuck outside due to us not checking the right communication channel.
@@ -28,6 +37,8 @@ We meet at the [KFORCE](https://www.kforce.com/find-an-office/tampa-florida-1/) 
 
 There is <strong>FREE</strong> parking in the attached parking garage. This is the address: <a href="https://www.google.com/maps/place/W+Arch+St,+Tampa,+FL+33607/@27.9537037,-82.5030219,19.38z/data=!4m6!3m5!1s0x88c2c309f603b769:0x2f7a7fd565883624!8m2!3d27.9538879!4d-82.5030738!16s%2Fg%2F11c2dcp3p6?entry=ttu">Waterview Parking Garage</a>
 
+<p>The KForce Team will be stationed at both the First floor and 2nd floor entrances of the building. Once inside the building we will go to the 5th floor. Kforce asks us to check in at the Kiosk for tracking and then we will be let into the area. They will only be stationed until 6:30. After 7 there will be NO access, so please make sure to arrive by 6:30 at the latest!</p>
+
 **Some notes for parking**:
 
 - Park on the 3rd floor or above
@@ -37,29 +48,6 @@ There is <strong>FREE</strong> parking in the attached parking garage. This is t
 </p>
 
 <p>You'll find lots to do in this area, learn more here: <a href="https://midtowntampa.com/">Midtown Tampa</a>. There are quite a few places to grab a bite to eat before our meetings.
-
-### Meetings
-<p>Our November meeting is our annual social event - join us at 6 PM at the Armature Works location in Tampa. Weather permitting, we'll be at the tables out next to the water, with a load of board games to enjoy. Bring your family!
-
-<p>You can <a href="https://armatureworks.com/">find the address and directions to Armature Works here</a>.</p>
-Please <a href="https://www.meetup.com/tampa-sql-user-groups/">register at this link so that the facilities has an accurate count of attendance</a>.</p>
- 
-<p>
-
-The KForce Team will be stationed at both the First floor and 2nd floor entrances of the building. Once inside the building we will go to the 5th floor. Kforce asks us to check in at the Kiosk for tracking and then we will be let into the area. They will only be stationed until 6:30. After 7 there will be NO access, so please make sure to arrive by 6:30 at the latest!</p>
-
-<p>Each meeting will have introductions, a puzzler, job openings, an brief session on a useful SQL server skill or tool, and meet-and-greet, and closing. 
-Please RVSP on <a href="https://www.meetup.com/tampa-sql-user-groups/">Meetup</a> for every meeting so that we can account for when food is provided! 
-</p>
-
-<p><a href="https://github.com/David-Seis/TSUG/blob/main/Resources/references/tsug.ics"><i>You can download a repeating calendar reminder here. Click the "Download to Raw File" option on that page (next to the pencil icon to the right) and save it with the name "<b>tsug.ics</b>", and then double-click that file to import it into your mail program</i>.</a></p>
-
-## <b>Location</b>
-<p>Our meeting location has been graciously provided by <a href="https://www.kforce.com/">Kforce</a>-  Jimmy Scullion- jscullion@kforce.com</p>
-
-<p><b>Address: </b><a href="https://www.bing.com/maps?cp=27.953441%7E-82.504609&lvl=18.1"> 1150 Assembly Dr Suite 500, Tampa, FL 33607</a></p>
-
-<p>When you get to the address, enter the building from the first floor or second floor parking garage sky bridge, and head to the elevators. Go up to the 5th floor and check in, we will be there to let you in to the area.</p>  
 
 
 ## <b>Contact Us</b>
