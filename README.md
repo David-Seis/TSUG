@@ -1,10 +1,9 @@
 <a href="https://www.meetup.com/tampa-sql-user-groups/"><img src="/Resources/graphics/tfab.png" width=800 alt="Tampa with community group name overlay"> </a>
 
 ### Meetings
-<p> We don't meet in December to allow you to spend time with Family and Friends - but we will pick back up in January for our regular third-Tuesday-of-each-month meetings. Stay tuned and check back here and on Social Media to find out where we are meeting!</p>
+<p> We will pick back up on February 18th for our regular third-Tuesday-of-each-month meetings. Stay tuned and check back here and on Social Media to find out where we are meeting!</p>
 
-<p>Each meeting will have introductions, a puzzler, job openings, an brief session on a useful SQL server skill or tool, and meet-and-greet, and closing. 
-Please RVSP on <a href="https://www.meetup.com/tampa-sql-user-groups/">Meetup</a> for every meeting so that we can account for when food is provided! 
+<p>Each meeting will have introductions, a puzzler, job openings, an brief session on a useful SQL server skill or tool, and meet-and-greet, and closing. Please RVSP on <a href="https://www.meetup.com/tampa-sql-user-groups/">Meetup</a> for every meeting so that we can account for when food is provided! 
 </p>
 
 <p><a href="https://github.com/David-Seis/TSUG/blob/main/Resources/references/tsug.ics"><i>You can download a repeating calendar reminder here. Click the "Download to Raw File" option on that page (next to the pencil icon to the right) and save it with the name "<b>tsug.ics</b>", and then double-click that file to import it into your mail program</i>.</a></p>
@@ -27,28 +26,8 @@ We meet on the **third Tuesday of every month at 6PM**. These meetings provide a
 
 We are associated with the <a href="https://www.microsoft.com/en-us/sql-server/community?activetab=pivot:sqlservertab">Microsoft Azure Data Global Network of User Groups</a>. 
 
-
 ### Meeting Location
-We meet at the [KFORCE](https://www.kforce.com/find-an-office/tampa-florida-1/) building on Dale Mabry in Tampa (Directions below). Be there promptly at 6, and come to the 5th floor to sign in. The elevators stop moving up floors at 7 PM.</p>
-
-1150 Assembly Drive Suite 500, Tampa, Florida 33607
-
-[**You can find a map and get directions here**](https://www.bing.com/maps?osid=f9193cdd-1ff2-45c4-955a-18527f92e29e&cp=27.953448~-82.50603&lvl=17.85&pi=0&v=2&sV=2&form=S00027) 
-
-There is <strong>FREE</strong> parking in the attached parking garage. This is the address: <a href="https://www.google.com/maps/place/W+Arch+St,+Tampa,+FL+33607/@27.9537037,-82.5030219,19.38z/data=!4m6!3m5!1s0x88c2c309f603b769:0x2f7a7fd565883624!8m2!3d27.9538879!4d-82.5030738!16s%2Fg%2F11c2dcp3p6?entry=ttu">Waterview Parking Garage</a>
-
-<p>The KForce Team will be stationed at both the First floor and 2nd floor entrances of the building. Once inside the building we will go to the 5th floor. Kforce asks us to check in at the Kiosk for tracking and then we will be let into the area. They will only be stationed until 6:30. After 7 there will be NO access, so please make sure to arrive by 6:30 at the latest!</p>
-
-**Some notes for parking**:
-
-- Park on the 3rd floor or above
-- Do not park in any spot that says "Reserved for X"
-- The 3rd level of the parking garage has a sky-bridge to the 2nd floor of the Kforce building.
-- DO NOT PARK AT Wholefoods. Parking in the area is monitored closely and you will likely get a ticket or towed. 
-</p>
-
-<p>You'll find lots to do in this area, learn more here: <a href="https://midtowntampa.com/">Midtown Tampa</a>. There are quite a few places to grab a bite to eat before our meetings.
-
+We are currently researching a location for the next set of meetings, which begin in February.</p>
 
 ## <b>Contact Us</b>
 
