@@ -27,15 +27,14 @@ We meet on the **third Tuesday of every month at 6PM**. These meetings provide a
 We are associated with the <a href="https://www.microsoft.com/en-us/sql-server/community?activetab=pivot:sqlservertab">Microsoft Azure Data Global Network of User Groups</a>. 
 
 ### Meeting Location
-				<p>We are currently meeting at the <a href="https://hcplc.org/locations/jimmie-b-keel" target="_blank">Jimmie B. Keel Regional Library </a> in North Tampa, meeting room <b>D</b>: </p>
-				<p>Jimmie B. Keel Regional Library</p>
-				<p>2902 W. Bearss Ave.</p>
-				<p>Tampa, Florida 33618-1828</p>
-				<p>813-273-3652</p>
-				<p><a href="https://www.google.com/maps/dir//Jimmie+B.+Keel+Regional+Library,+West+Bearss+Avenue,+Tampa,+FL/@28.0840804,-82.4911034,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x88c2c0a3eb457355:0xb4a52dfe623a04c0!2m2!1d-82.492047!2d28.087?hl=en" target="_blank">Directions</a></p>
-				<br>
-				<p>Make sure you check our <a href="https://www.meetup.com/tampa-sql-user-groups/" target="_blank">Meetup page for details when they are announced on our Social Media channels!</p>
+We are currently meeting at the <a href="https://hcplc.org/locations/jimmie-b-keel" target="_blank">Jimmie B. Keel Regional Library </a> in North Tampa, meeting room <b>D</b>: </p>
 
+Jimmie B. Keel Regional Library, 2902 W. Bearss Ave., Tampa, Florida 33618-1828
+813-273-3652
+
+[Directions](https://www.google.com/maps/dir//Jimmie+B.+Keel+Regional+Library,+West+Bearss+Avenue,+Tampa,+FL/@28.0840804,-82.4911034,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x88c2c0a3eb457355:0xb4a52dfe623a04c0!2m2!1d-82.492047!2d28.087?hl=en")
+
+[Make sure you check our Meetup page for details when they are announced on our Social Media channels!(https://www.meetup.com/tampa-sql-user-groups/)
 
 ## <b>Contact Us</b>
 
