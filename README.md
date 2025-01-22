@@ -6,8 +6,6 @@
 <p>Each meeting will have introductions, a puzzler, job openings, an brief session on a useful SQL server skill or tool, and meet-and-greet, and closing. Please RVSP on <a href="https://www.meetup.com/tampa-sql-user-groups/">Meetup</a> for every meeting so that we can account for when food is provided! 
 </p>
 
-<p><a href="https://github.com/David-Seis/TSUG/blob/main/Resources/references/tsug.ics"><i>You can download a repeating calendar reminder here. Click the "Download to Raw File" option on that page (next to the pencil icon to the right) and save it with the name "<b>tsug.ics</b>", and then double-click that file to import it into your mail program</i>.</a></p>
-
 ## <b>Announcements</b>
 
 - Please download the TELEGRAM app to communicate with us on meeting days and for the most recent annoucements. There are two groups to join, the first is the notifcation channel, the second is the chat room. We will use this to have one point of contact for all leaders, and to assist with avoiding missing anyone stuck outside due to us not checking the right communication channel.
@@ -34,7 +32,7 @@ Jimmie B. Keel Regional Library, 2902 W. Bearss Ave., Tampa, Florida 33618-1828
 
 [Directions](https://www.google.com/maps/dir//Jimmie+B.+Keel+Regional+Library,+West+Bearss+Avenue,+Tampa,+FL/@28.0840804,-82.4911034,14z/data=!4m8!4m7!1m0!1m5!1m1!1s0x88c2c0a3eb457355:0xb4a52dfe623a04c0!2m2!1d-82.492047!2d28.087?hl=en")
 
-[Make sure you check our Meetup page for details when they are announced on our Social Media channels!(https://www.meetup.com/tampa-sql-user-groups/)
+[Make sure you check our Meetup page for details when they are announced on our Social Media channels!](https://www.meetup.com/tampa-sql-user-groups/)
 
 ## <b>Contact Us</b>
 
